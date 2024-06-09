@@ -1,6 +1,6 @@
 # Hi 👋, I'm <a href="https://github.com/himanshu1577" target="blank">Himanshu</a>
 <h3>A Passionate Developer from India &#127470;&#127475</h3>
- <img src="https://komarev.com/ghpvc/?username=twi05&label=PROFILE VIEWS  &color=red&style=flat" alt="himanshu"/>
+ <alt="himanshu"/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Advance ReactJS and Data Struture and Algorithm.
 
-- 💬 Ask me about **JAVA & Cpp**
+- 💬 Ask me about **JAVA & CPP**
 
 
 
@@ -53,7 +53,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="40px" height="40px" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmsvg"   width="40px" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmsvg"   width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"   width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"   width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindtailwindcss-original-wordmark.svg"   width="40px" height="40px" />
