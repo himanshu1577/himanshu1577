@@ -5,12 +5,12 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> 
 
-- 🌱 I’m currently Working on Software Development (ReactJS, NextJS) and C++ as Core Language.
+- 🌱 I’m currently working as a Software Developer using Core Java and Springboot.
 
 - 🤝 I’m available for Jobs.
-- Excellent in problem solving and CP Enthusiast.
+- Excellent in problem-solving and CP Enthusiast.
 
-- 🌱 I’m currently learning Advance ReactJS and Data Struture and Algorithm.
+- 🌱 I’m currently learning Advanced ReactJS and Data Structure and Algorithm.
 
 - 💬 Ask me about **JAVA & CPP**
 
